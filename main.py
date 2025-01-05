@@ -1,10 +1,9 @@
-import sys
-import os
+from scripts.data_loader import load_data
 
-sys.path.append(os.path.join(os.path.dirname(__file__), 'scripts'))
+def main():
+    #load Dataset
+    file_path = "data/bank.csv"
+    df = load_data(file_path)
 
-from data_loader import load_data
-
-file_path = './data/bank.csv'
-
-df = load_data(file_path)
+if __name__ == "__main__":
+    main()
