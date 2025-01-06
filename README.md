@@ -34,3 +34,12 @@ The goal is to produce a preprocessed dataset ready for analysis and an EDA repo
 ### Task 2: Customer Segmenetation Modeling
 
 ### Task 3: Customer Insights and Marketing Strategies 
+
+#### Skills Used
+- Python programming
+- Data manipulation with Pandas , NumPy
+
+#### Skills To Be Used
+- Data visualization with Matplotlib and Seaborn
+- Statistical analysis
+- Machine learning algorithms
