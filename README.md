@@ -8,7 +8,6 @@
 ## Tasks:
 
 ### Task 1: Data Exploration and Preprocessing
-     🚧 This Task is currently in progress.
 
 #### Overview
 This task involves exploring and preprocessing the banking dataset provided by Deloitte to prepare it for customer segmentation analysis. The main objectives are:
@@ -32,6 +31,7 @@ This task involves exploring and preprocessing the banking dataset provided by D
 The goal is to produce a preprocessed dataset ready for analysis and an EDA report providing insights into the data.
 
 ### Task 2: Customer Segmenetation Modeling
+     🚧 This Task is currently in progress.
 
 ### Task 3: Customer Insights and Marketing Strategies 
 
